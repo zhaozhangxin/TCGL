@@ -1,3 +1,4 @@
+Trustworthy Collaborative Generative Learning (TCGL) for Cancer Survival Analysis with Multi-modality Data
 
 The file of "TCGL_framework.png" provides the framework of the proposed method.
 
